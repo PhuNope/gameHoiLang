@@ -1,0 +1,279 @@
+
+character.png
+size: 1443,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chay/Boom1
+  rotate: true
+  xy: 268, 256
+  size: 265, 248
+  orig: 332, 592
+  offset: 29, 279
+  index: -1
+Chay/Boom2
+  rotate: true
+  xy: 1296, 136
+  size: 129, 134
+  orig: 130, 135
+  offset: 0, 0
+  index: -1
+Chay/TRAI/chan phai
+  rotate: false
+  xy: 1240, 276
+  size: 42, 94
+  orig: 42, 94
+  offset: 0, 0
+  index: -1
+Chay/TRAI/chan trai
+  rotate: true
+  xy: 1122, 3
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+Chay/TRAI/dau
+  rotate: true
+  xy: 518, 273
+  size: 248, 238
+  orig: 248, 238
+  offset: 0, 0
+  index: -1
+Chay/TRAI/hoc mat
+  rotate: false
+  xy: 946, 52
+  size: 135, 57
+  orig: 137, 66
+  offset: 0, 0
+  index: -1
+Chay/TRAI/long may
+  rotate: false
+  xy: 842, 2
+  size: 138, 44
+  orig: 140, 45
+  offset: 0, 1
+  index: -1
+Chay/TRAI/mat phai
+  rotate: true
+  xy: 391, 237
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Chay/TRAI/mat trai
+  rotate: false
+  xy: 758, 293
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Chay/TRAI/mieng
+  rotate: false
+  xy: 1123, 325
+  size: 115, 43
+  orig: 115, 43
+  offset: 0, 0
+  index: -1
+Chay/TRAI/mieng 2
+  rotate: false
+  xy: 618, 4
+  size: 104, 38
+  orig: 106, 39
+  offset: 1, 1
+  index: -1
+Chay/TRAI/mui
+  rotate: true
+  xy: 379, 228
+  size: 26, 10
+  orig: 31, 11
+  offset: 0, 1
+  index: -1
+Chay/TRAI/tay phai
+  rotate: false
+  xy: 1296, 5
+  size: 112, 129
+  orig: 112, 129
+  offset: 0, 0
+  index: -1
+Chay/TRAI/tay trai
+  rotate: false
+  xy: 1123, 371
+  size: 71, 150
+  orig: 71, 150
+  offset: 0, 0
+  index: -1
+Chay/TRAI/than
+  rotate: true
+  xy: 1296, 267
+  size: 101, 143
+  orig: 101, 143
+  offset: 0, 0
+  index: -1
+Chay/TRAI/xanh
+  rotate: true
+  xy: 928, 111
+  size: 200, 130
+  orig: 200, 141
+  offset: 0, 11
+  index: -1
+Chay/blood1
+  rotate: true
+  xy: 965, 324
+  size: 197, 156
+  orig: 197, 156
+  offset: 0, 0
+  index: -1
+Chay/blood2
+  rotate: false
+  xy: 2, 3
+  size: 207, 217
+  orig: 207, 218
+  offset: 0, 0
+  index: -1
+Chay/blood3
+  rotate: false
+  xy: 618, 44
+  size: 172, 227
+  orig: 174, 227
+  offset: 1, 0
+  index: -1
+Chay/water1
+  rotate: true
+  xy: 359, 225
+  size: 29, 18
+  orig: 334, 594
+  offset: 186, 370
+  index: -1
+Chay/water2
+  rotate: false
+  xy: 268, 222
+  size: 44, 32
+  orig: 334, 594
+  offset: 200, 351
+  index: -1
+Chay/water3
+  rotate: false
+  xy: 314, 223
+  size: 43, 31
+  orig: 334, 594
+  offset: 218, 342
+  index: -1
+GAI/Boom1
+  rotate: false
+  xy: 758, 313
+  size: 205, 208
+  orig: 205, 208
+  offset: 0, 0
+  index: -1
+GAI/Boom2
+  rotate: false
+  xy: 1060, 145
+  size: 172, 177
+  orig: 172, 177
+  offset: 0, 0
+  index: -1
+GAI/Boom3
+  rotate: true
+  xy: 2, 222
+  size: 299, 264
+  orig: 299, 265
+  offset: 0, 0
+  index: -1
+GAI/chan phai
+  rotate: false
+  xy: 1234, 180
+  size: 41, 94
+  orig: 42, 94
+  offset: 0, 0
+  index: -1
+GAI/chan trai
+  rotate: true
+  xy: 1209, 3
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+GAI/dau
+  rotate: false
+  xy: 211, 6
+  size: 211, 214
+  orig: 345, 214
+  offset: 0, 0
+  index: -1
+GAI/hoc mat
+  rotate: false
+  xy: 792, 48
+  size: 152, 61
+  orig: 152, 61
+  offset: 0, 0
+  index: -1
+GAI/long may
+  rotate: false
+  xy: 982, 7
+  size: 138, 43
+  orig: 140, 44
+  offset: 1, 1
+  index: -1
+GAI/mat phai
+  rotate: true
+  xy: 518, 256
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+GAI/mat trai
+  rotate: false
+  xy: 758, 275
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+GAI/mieng
+  rotate: false
+  xy: 724, 15
+  size: 116, 27
+  orig: 117, 27
+  offset: 1, 0
+  index: -1
+GAI/mui
+  rotate: true
+  xy: 391, 222
+  size: 13, 10
+  orig: 13, 11
+  offset: 0, 1
+  index: -1
+GAI/tay phai
+  rotate: true
+  xy: 1083, 58
+  size: 85, 149
+  orig: 85, 149
+  offset: 0, 0
+  index: -1
+GAI/tay trai
+  rotate: false
+  xy: 1196, 372
+  size: 85, 149
+  orig: 85, 149
+  offset: 0, 0
+  index: -1
+GAI/than
+  rotate: false
+  xy: 1296, 370
+  size: 145, 151
+  orig: 146, 151
+  offset: 0, 0
+  index: -1
+GAI/toc
+  rotate: false
+  xy: 424, 3
+  size: 192, 251
+  orig: 192, 251
+  offset: 0, 0
+  index: -1
+GAI/xanh
+  rotate: true
+  xy: 792, 111
+  size: 200, 134
+  orig: 200, 141
+  offset: 0, 7
+  index: -1

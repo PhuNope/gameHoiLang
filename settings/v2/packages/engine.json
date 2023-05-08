@@ -94,8 +94,17 @@
       "tween": {
         "_value": true
       },
+      "websocket": {
+        "_value": true
+      },
+      "websocket-server": {
+        "_value": false
+      },
       "terrain": {
         "_value": false
+      },
+      "light-probe": {
+        "_value": true
       },
       "tiled-map": {
         "_value": true
@@ -139,5 +148,8 @@
       "version": ""
     },
     "flags": {}
+  },
+  "macroConfig": {
+    "ENABLE_MULTI_TOUCH": false
   }
 }

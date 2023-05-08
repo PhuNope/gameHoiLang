@@ -1,0 +1,188 @@
+
+Layer 93.png
+size: 782,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nam/chan phai
+  rotate: false
+  xy: 608, 11
+  size: 43, 53
+  orig: 233, 372
+  offset: 75, 51
+  index: -1
+Nam/chan trai
+  rotate: false
+  xy: 513, 4
+  size: 39, 57
+  orig: 233, 372
+  offset: 127, 51
+  index: -1
+Nam/con nguoi
+  rotate: true
+  xy: 554, 4
+  size: 60, 13
+  orig: 233, 372
+  offset: 67, 218
+  index: -1
+Nu/con nguoi
+  rotate: true
+  xy: 554, 4
+  size: 60, 13
+  orig: 233, 372
+  offset: 67, 218
+  index: -1
+Nam/dau
+  rotate: false
+  xy: 306, 28
+  size: 127, 127
+  orig: 233, 372
+  offset: 49, 170
+  index: -1
+Nu/dau
+  rotate: false
+  xy: 306, 28
+  size: 127, 127
+  orig: 233, 372
+  offset: 49, 170
+  index: -1
+Nam/long may
+  rotate: false
+  xy: 420, 11
+  size: 85, 15
+  orig: 233, 372
+  offset: 58, 240
+  index: -1
+Nu/long may
+  rotate: false
+  xy: 420, 11
+  size: 85, 15
+  orig: 233, 372
+  offset: 58, 240
+  index: -1
+Nam/mat phai
+  rotate: false
+  xy: 726, 67
+  size: 27, 35
+  orig: 233, 372
+  offset: 61, 209
+  index: -1
+Nam/mat trai
+  rotate: true
+  xy: 476, 29
+  size: 32, 35
+  orig: 233, 372
+  offset: 107, 209
+  index: -1
+Nam/mom
+  rotate: false
+  xy: 306, 3
+  size: 56, 23
+  orig: 233, 372
+  offset: 82, 181
+  index: -1
+Nam/mui
+  rotate: false
+  xy: 740, 10
+  size: 12, 13
+  orig: 233, 372
+  offset: 85, 201
+  index: -1
+Nu/mui
+  rotate: false
+  xy: 740, 10
+  size: 12, 13
+  orig: 233, 372
+  offset: 85, 201
+  index: -1
+Nam/tay phai
+  rotate: false
+  xy: 580, 66
+  size: 46, 89
+  orig: 233, 372
+  offset: 73, 83
+  index: -1
+Nam/tay trai
+  rotate: true
+  xy: 653, 14
+  size: 51, 85
+  orig: 233, 372
+  offset: 137, 90
+  index: -1
+Nam/than
+  rotate: false
+  xy: 517, 66
+  size: 61, 89
+  orig: 233, 372
+  offset: 100, 97
+  index: -1
+Nam/toc
+  rotate: true
+  xy: 189, 3
+  size: 152, 115
+  orig: 233, 372
+  offset: 40, 206
+  index: -1
+Nu/chan phai
+  rotate: false
+  xy: 726, 104
+  size: 40, 51
+  orig: 233, 372
+  offset: 76, 52
+  index: -1
+Nu/chan trai
+  rotate: false
+  xy: 569, 9
+  size: 37, 55
+  orig: 233, 372
+  offset: 128, 52
+  index: -1
+Nu/mat phai
+  rotate: true
+  xy: 435, 28
+  size: 33, 39
+  orig: 233, 372
+  offset: 55, 209
+  index: -1
+Nu/mat trai
+  rotate: false
+  xy: 740, 25
+  size: 40, 40
+  orig: 233, 372
+  offset: 106, 209
+  index: -1
+Nu/mom
+  rotate: false
+  xy: 364, 5
+  size: 54, 21
+  orig: 233, 372
+  offset: 83, 182
+  index: -1
+Nu/tay phai
+  rotate: false
+  xy: 628, 67
+  size: 45, 88
+  orig: 233, 372
+  offset: 74, 84
+  index: -1
+Nu/tay trai
+  rotate: false
+  xy: 675, 72
+  size: 49, 83
+  orig: 233, 372
+  offset: 138, 91
+  index: -1
+Nu/than
+  rotate: false
+  xy: 435, 63
+  size: 80, 92
+  orig: 233, 372
+  offset: 89, 94
+  index: -1
+Nu/toc
+  rotate: false
+  xy: 2, 2
+  size: 185, 153
+  orig: 233, 372
+  offset: 38, 176
+  index: -1

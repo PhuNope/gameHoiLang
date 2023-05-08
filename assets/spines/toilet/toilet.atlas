@@ -1,0 +1,55 @@
+
+toilet.png
+size: 588,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+toilet 1/hoc mat
+  rotate: false
+  xy: 449, 2
+  size: 109, 91
+  orig: 616, 588
+  offset: 267, 304
+  index: -1
+toilet 1/mat
+  rotate: false
+  xy: 502, 268
+  size: 84, 40
+  orig: 616, 588
+  offset: 280, 314
+  index: -1
+toilet 1/mieng
+  rotate: true
+  xy: 502, 310
+  size: 84, 68
+  orig: 616, 588
+  offset: 286, 255
+  index: -1
+toilet 1/mui
+  rotate: true
+  xy: 502, 244
+  size: 22, 13
+  orig: 616, 588
+  offset: 307, 305
+  index: -1
+toilet 1/tay phai
+  rotate: true
+  xy: 449, 243
+  size: 151, 51
+  orig: 616, 588
+  offset: 145, 242
+  index: -1
+toilet 1/tay trai
+  rotate: true
+  xy: 449, 95
+  size: 146, 98
+  orig: 616, 588
+  offset: 414, 282
+  index: -1
+toilet 1/than
+  rotate: true
+  xy: 2, 8
+  size: 386, 445
+  orig: 616, 588
+  offset: 99, 25
+  index: -1

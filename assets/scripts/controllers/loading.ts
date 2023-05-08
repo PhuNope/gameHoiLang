@@ -7,7 +7,6 @@ const { ccclass, property } = _decorator;
 export class loading extends Component {
     @property(ProgressBar)
     loadingProgressBar: ProgressBar;
-
     start() {
         director.preloadScene(Configs.GAME_SCENE_NAME, (completedCount, totalCount) => {
             let percent = completedCount / totalCount;
@@ -15,7 +14,7 @@ export class loading extends Component {
         },
             () => {
                 //completed
-                director.loadScene(Configs.MENU_SCENE_NAME);
+                director.loadScene(Configs.GAME_SCENE_NAME);
             });
     }
 

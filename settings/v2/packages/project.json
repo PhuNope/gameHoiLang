@@ -2,10 +2,83 @@
   "__version__": "1.0.4",
   "general": {
     "designResolution": {
-      "width": 1280,
-      "height": 720,
-      "fitHeight": true
+      "width": 720,
+      "height": 1580,
+      "fitHeight": false,
+      "fitWidth": true
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "player"
+      },
+      {
+        "index": 2,
+        "name": "cart"
+      },
+      {
+        "index": 3,
+        "name": "wall"
+      },
+      {
+        "index": 4,
+        "name": "enemy"
+      },
+      {
+        "index": 5,
+        "name": "mouse"
+      },
+      {
+        "index": 6,
+        "name": "nothing"
+      },
+      {
+        "index": 7,
+        "name": "paper"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 150,
+      "2": 14,
+      "3": 44,
+      "4": 2,
+      "5": 8,
+      "6": 0,
+      "7": 2
+    }
+  },
+  "sorting-layer": {
+    "layers": [
+      {
+        "id": 0,
+        "name": "default",
+        "value": 0
+      },
+      {
+        "id": 3,
+        "name": "Sorting Layer 1",
+        "value": 1
+      },
+      {
+        "id": 4,
+        "name": "Sorting Layer 2",
+        "value": 2
+      }
+    ],
+    "increaseId": 4
+  },
+  "custom_joint_texture_layouts": [],
+  "layer": [
+    {
+      "name": "HUD",
+      "value": 524288
     },
-    "highQuality": true
-  }
+    {
+      "name": "Level",
+      "value": 262144
+    }
+  ]
 }

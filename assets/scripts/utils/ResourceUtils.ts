@@ -2,7 +2,7 @@ import { assetManager, AudioClip, ImageAsset, Prefab, resources, SpriteFrame, Te
 const { ccclass, property } = _decorator;
 
 @ccclass('ResourceUtils')
-export class ResourceUtils  {
+export class ResourceUtils {
     start() {
 
     }
@@ -11,15 +11,22 @@ export class ResourceUtils  {
             if (!err) {
                 callback(prefab);
             }
-        })
+        });
     }
     public static loadAudio(path, callback) {
         resources.load(path, AudioClip, (err, audio: AudioClip) => {
             if (!err) {
                 callback(audio);
             }
-        })
+        });
     }
+
+    public static loadSoundAsset(path, callback) {
+        resources.load(path, AudioClip, (error, asset) => {
+            callback(asset);
+        });
+    }
+
     public static loadSprite(path, callback) {
 
         resources.load(path, ImageAsset, (err, imageAsset) => {
@@ -42,7 +49,7 @@ export class ResourceUtils  {
             if (!err) {
                 callback(spriteFrameList);
             }
-        })
+        });
     }
     public static loadImageFromURL(remoteUrl, callback) {
         // Remote texture url with file extensions

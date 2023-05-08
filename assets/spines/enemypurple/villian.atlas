@@ -1,0 +1,97 @@
+
+villian.png
+size: 457,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan phai
+  rotate: false
+  xy: 382, 60
+  size: 52, 100
+  orig: 370, 588
+  offset: 91, 38
+  index: -1
+chan trai
+  rotate: true
+  xy: 200, 17
+  size: 51, 101
+  orig: 370, 588
+  offset: 194, 33
+  index: -1
+con nguoi phai
+  rotate: false
+  xy: 200, 81
+  size: 13, 20
+  orig: 370, 588
+  offset: 92, 394
+  index: -1
+con nguoi trai
+  rotate: false
+  xy: 436, 215
+  size: 17, 19
+  orig: 370, 588
+  offset: 204, 394
+  index: -1
+dau
+  rotate: false
+  xy: 2, 103
+  size: 226, 221
+  orig: 370, 588
+  offset: 79, 276
+  index: -1
+mat phai
+  rotate: false
+  xy: 376, 162
+  size: 58, 72
+  orig: 370, 588
+  offset: 74, 374
+  index: -1
+mat trai
+  rotate: true
+  xy: 376, 236
+  size: 98, 77
+  orig: 370, 588
+  offset: 156, 378
+  index: -1
+mieng
+  rotate: false
+  xy: 230, 70
+  size: 150, 88
+  orig: 370, 588
+  offset: 119, 292
+  index: -1
+mui
+  rotate: false
+  xy: 303, 26
+  size: 28, 42
+  orig: 370, 588
+  offset: 124, 357
+  index: -1
+tay phai
+  rotate: false
+  xy: 230, 160
+  size: 144, 164
+  orig: 370, 588
+  offset: 41, 123
+  index: -1
+tay trai
+  rotate: true
+  xy: 2, 2
+  size: 99, 196
+  orig: 370, 588
+  offset: 205, 96
+  index: -1
+than
+  rotate: false
+  xy: 298, 336
+  size: 157, 186
+  orig: 370, 588
+  offset: 103, 120
+  index: -1
+toc
+  rotate: false
+  xy: 2, 326
+  size: 294, 196
+  orig: 370, 588
+  offset: 58, 366
+  index: -1
